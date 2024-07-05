@@ -1,1 +1,1 @@
-# new-method-for-contour-corner-detection
+# New method for contour corner detection
